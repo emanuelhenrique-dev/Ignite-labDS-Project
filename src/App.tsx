@@ -6,9 +6,9 @@ export function App() {
 
   return (
     <>
-    <h1 className='text-violet-300 text-5xl'>Hello World</h1>
+    <h1 className='text-gray-400 text-2xl'>Hello World</h1>
 
-    <button className='bg-violet-500 font-medium px-4 py-2 rounded text-white hover:bg-blue-800'>
+    <button className='bg-blue-500 font-medium px-4 py-2 rounded text-white hover:bg-blue-200'>
       Enviar
     </button>
     </>
