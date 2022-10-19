@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind utilities;
 @tailwind components;
+
+.card {
+  filter: drop-shadow(10px 7px 4px rgb(0 0 0 / 0.25));
+}
+
+.bg-logo {
+  left: 58%;
+  top: -76%;
+  z-index: -1;
+}
+
+.bg-logo path {
+  fill: rgb(32 32 36 / 0.25);
+}
